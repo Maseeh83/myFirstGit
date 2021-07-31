@@ -1,6 +1,1 @@
-function addTwoNumbers(a, b) {
-    return a + b;
-}
-
-console.log("Hello World!");
-console.log(addTwoNumbers(5, 10));
+console.log("I caused a merge conflict.");
