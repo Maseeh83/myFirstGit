@@ -1,2 +1,4 @@
-console.log("I caused a merge conflict for the 3rd time!!!");
-console.log("Helllllloooooo!");
+let a = 3;
+let b = 5;
+
+console.log(a * b);
